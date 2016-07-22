@@ -2,8 +2,8 @@
 
 Add syntax highlighting and snippets to Vala files in Atom.
 
-Originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
-from the [Vala TextMate bundle](https://github.com/technosophos/Vala-TMBundle).
-
-Contributions are greatly appreciated. Please fork this repository and open a
-pull request to add snippets, make grammar tweaks, etc.
+Forked from the [`language-vala`](https://github.com/evfool/language-vala)
+package, the main difference is that this package is more actively maintained.
+If you use the `language-vala` package you will find that it does **not** auto-
+matically syntax-highlight Vala files. This package does, as it includes the
+`scopeName` field in its `grammars/vala.cson` file.
