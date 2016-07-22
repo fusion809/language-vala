@@ -2,9 +2,18 @@
   "name": "language-vala-modern",
   "version": "0.2.0",
   "description": "Vala language support in Atom",
-  "repository": "https://github.com/fusion809/language-vala",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
+  "homepage": "http://atom.io/packages/language-vala-modern",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fusion809/language-vala-modern.git"
+  },
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/fusion809/language-vala-modern/issues"
+  }
 }
