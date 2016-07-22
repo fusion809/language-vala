@@ -3,6 +3,7 @@
   'vala'
   'vapi'
 ]
+'scopeName': 'source.vala'
 'foldingStartMarker': '(\\{\\s*(//.*)?$|^\\s*// \\{\\{\\{)'
 'foldingStopMarker': '^\\s*(\\}|// \\}\\}\\}$)'
 'name': 'Vala'
