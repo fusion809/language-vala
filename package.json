@@ -1,11 +1,10 @@
 {
-  "name": "language-vala",
+  "name": "language-vala-modern",
   "version": "0.2.0",
   "description": "Vala language support in Atom",
-  "repository": "https://github.com/evfool/language-vala",
+  "repository": "https://github.com/fusion809/language-vala",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {}
 }
