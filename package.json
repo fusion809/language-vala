@@ -1,6 +1,6 @@
 {
   "name": "language-vala-modern",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "author": "evfool",
   "contributor": "Brenton Horne <brentonhorne77@gmail.com>",
   "description": "Vala language support in Atom - fork of language-vala package, that is more actively maintained.",
